@@ -1,0 +1,188 @@
+
+
+body {background-image: url('images/bkg.jpg');}
+
+#navigation { 	
+		color: white;
+   		background-color: black;
+  		clear: left;
+    		text-align: center;
+		margin-top:10px;
+		margin-bottom:0px;
+
+}       
+
+
+
+ul{ 		
+		text-align:center;
+  		
+   		 
+		
+}
+ul li {
+    		list-style-type: none;
+   		display: inline-block;
+		color:#F8F8F8;
+		transition: 0.8s all;
+		font-size:20px;
+		
+} 
+ul li a{
+    		text-decoration:none;
+		color:#F8F8F8; 
+		padding: 30px;	
+		
+}
+
+ul li a:hover {
+    		background-color:white;
+		color:red; 
+		
+}
+	
+
+
+.titlerules{color: white;
+      background-color: #F8F8F8;
+border: 1px solid black;}
+
+
+
+
+
+
+
+.Ourteamtitle{
+            text-align: center;
+	margin-top:50px;
+    
+    
+    
+}
+
+
+
+
+
+
+
+.Ourteamtitle3{
+        margin-top: 100px;}
+
+
+.rowteamhome,.rowteamhome2{ 
+        padding-left: 30px;
+    
+    
+}
+
+
+
+#footer {
+		
+    		padding: 1em;
+		color: White;
+   		background-color:#000000;
+  		clear: left;
+    		text-align: center;
+		margin-top:10px;
+		margin-bottom:0px;
+}
+
+
+.img20{
+display: block;
+margin-left: auto;
+margin-right:auto; width: 30%;}
+
+.img100{width:100%;
+}
+.img100{width:100%;
+}
+
+.img80{display: block;
+margin-left: auto;
+margin-right:auto; width: 30%;}
+
+
+.img70{width:70%;
+}
+.img60{display: block;
+margin-left: auto;
+margin-right:auto; width: 30%;
+}
+
+.img50{width:50%;
+}
+
+.img40{width:40%;
+}
+.img33{display: block;
+margin-left: auto;
+margin-right:auto; width: 30%;
+}
+
+.img30{width:30%;
+}
+
+.img20{width:20%;
+}
+
+.img25{width:25%;
+}
+.img10{width:10%;
+}
+.img8{width:8%;
+}
+
+
+
+
+
+
+
+.bottom-line {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    border: 0;
+        border-top-width: 0px;
+        border-top-style: none;
+        border-top-color: currentcolor;
+    border-top: 0px;
+    height: 3px;
+    width: 200px;
+    background-color:#000000;}
+
+
+
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 80%;
+margin-left:200px;
+}
+
+td, th {
+  border: 4px solid black;
+  text-align: left;
+left: 8px;
+}
+
+h1,h2{text-align: center; color:Black; font-family: sans-serif; font-size: 30px; }
+
+
+p {text-align:center; color:black; font-family: sans-serif; font-size:20px; }
+
+
+dl { text-align:center; color:black; font-family: sans-serif; font-size: 20px;}
+
+.container { clear: left; text-align: center; margin-top: 10px;margin-bottom:0px; }
+
+
+
+. table, th, td {
+                  border: 1px solid black; 
+}
+
